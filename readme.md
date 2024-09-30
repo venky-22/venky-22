@@ -27,6 +27,6 @@ I hold a Bachelor of Engineering (BE) in Computer Science and Engineering from P
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/venkatesh-waran/) or reach out via email at [your.email@example.com].
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/venkatesh-waran/).
 
 ---
